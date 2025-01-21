@@ -14,8 +14,7 @@ Recently, I started my journey as a **Solidity developer** and **full-stack deve
 - Collaborate on exciting open-source projects in the Web3 space.  
 
 ### 📫 How to Reach Me:
-Feel free to connect with me on [LinkedIn](#) to discuss projects, collaborations, or just to share ideas.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sinan-dogan-969783270/) to discuss projects, collaborations, or just to share ideas.  
 
-### ⚡ Fun Fact:
-
+### ⚡ 
 Looking forward to building the future of the internet, one block at a time. 🛠️
