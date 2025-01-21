@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**0xSinan/0xSinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sinan, a **33-year-old french blockchain developer** passionate about technology and blockchain. 🚀  
+Recently, I started my journey as a **Solidity developer** and **full-stack developer**, diving deep into the world of smart contracts and decentralized applications (dApps).  
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning:
+- **Solidity**: Improving my skills in writing secure and efficient smart contracts.  
+- **Next.js**: Mastering this powerful React framework to build performant web applications.  
+- **JavaScript**: Continuously honing my frontend and backend development skills.
+- **AI**: Exploring how artificial intelligence can complement blockchain technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 My Goals:
+- Build innovative decentralized applications that make blockchain technology more accessible.  
+- Collaborate on exciting open-source projects in the Web3 space.  
+
+### 📫 How to Reach Me:
+Feel free to connect with me on [LinkedIn](#) to discuss projects, collaborations, or just to share ideas.  
+
+### ⚡ Fun Fact:
+
+Looking forward to building the future of the internet, one block at a time. 🛠️
